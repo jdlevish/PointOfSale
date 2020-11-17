@@ -1,0 +1,34 @@
+{
+  "name": "pointofsale",
+  "version": "1.0.0",
+  "description": "point of sale system for restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdlevish/PointOfSale.git"
+  },
+  "keywords": [
+    "restaurant",
+    "javascript",
+    "node",
+    "express",
+    "point",
+    "of",
+    "sale",
+    "pos"
+  ],
+  "author": "Joshua Levish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdlevish/PointOfSale/issues"
+  },
+  "homepage": "https://github.com/jdlevish/PointOfSale#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "mongoose": "^5.10.15"
+  }
+}
